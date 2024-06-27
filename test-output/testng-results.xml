@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T13:38:36 IST" name="inetBanking" finished-at="2024-06-27T13:39:50 IST" duration-ms="73779">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T13:38:36 IST" name="Banking App Test" finished-at="2024-06-27T13:39:50 IST" duration-ms="73779">
+      <class name="com.test.testCases.LoginTest_001">
+        <test-method is-config="true" signature="initializeBrowser(java.lang.String)[pri:0, instance:com.test.testCases.LoginTest_001@302c971f]" started-at="2024-06-27T13:38:37 IST" name="initializeBrowser" finished-at="2024-06-27T13:38:48 IST" duration-ms="10961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="loginTest()[pri:0, instance:com.test.testCases.LoginTest_001@302c971f]" started-at="2024-06-27T13:38:48 IST" name="loginTest" description="Login Test Case" finished-at="2024-06-27T13:39:48 IST" duration-ms="59593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.test.testCases.LoginTest_001@302c971f]" started-at="2024-06-27T13:39:48 IST" name="closeBrowser" finished-at="2024-06-27T13:39:50 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.testCases.LoginTest_001 -->
+    </test> <!-- Banking App Test -->
+  </suite> <!-- inetBanking -->
+</testng-results>

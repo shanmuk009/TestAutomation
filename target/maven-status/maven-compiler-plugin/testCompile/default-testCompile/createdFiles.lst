@@ -1,0 +1,7 @@
+com\test\testCases\LoginTest_002.class
+com\test\testUtilities\XLUtils.class
+com\test\testUtilities\ReadConfig.class
+com\test\BaseClass\BaseClass.class
+com\test\testCases\LoginTest_001.class
+com\test\PageObjects\LoginPage.class
+com\test\testUtilities\Reporter.class
